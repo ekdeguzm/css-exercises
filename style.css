@@ -1,0 +1,29 @@
+.external-method {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    display: flex;
+}   
+
+.title {
+    text-align: center;
+}
+
+.move-it {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.internal-method {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+.straight-love {
+    background-color: orange;
+    font-size: 18px;
+}
